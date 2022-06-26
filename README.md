@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yuhao Fan
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently studying at NYU for learning Computer Science
-- 💞️ I’m looking for a summer internship of 2022 in US
+- 💞️ I’m looking for a Software Engineer of 2023 in US
 - 📫 How to reach me: yuhaofan22@gmail.com
 
 <!---
