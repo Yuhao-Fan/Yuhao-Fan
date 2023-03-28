@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yuhao Fan
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently studying at NYU for learning Computer Science
-- 💞️ I’m looking for a Full-time Software Engineer Job of 2023 in USA
+- 💞️ I’m looking for a Full-time Software Engineer, JAVA Developer or Backend Software Engineer Job start from May, 2023 in USA
 - 📫 How to reach me: yuhaofan22@gmail.com
 
 <!---
